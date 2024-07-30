@@ -1,5 +1,5 @@
 {
-    "model": "models/word2vec.gensim.model",
-    "fasttext": false,
-    "debug": true
+  "model": "300.bin",
+  "fasttext": false,
+  "debug": true
 }
